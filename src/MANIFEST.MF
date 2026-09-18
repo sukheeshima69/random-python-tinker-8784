@@ -1,0 +1,7 @@
+MIDlet-Name: 2FA
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Rupa
+MIDlet-Description: TOTP Authenticator for Nokia E71
+MIDlet-1: 2FA, /icon25.png, com.twofa.app.TwoFAMidlet
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
